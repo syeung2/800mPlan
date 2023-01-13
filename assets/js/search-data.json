@@ -3,7 +3,7 @@
     
         "post0": {
             "title": "CIF State",
-            "content": "*Tentative . Athlete | Events | .",
+            "content": "*Tentative . Athlete | Events | . Prev",
             "url": "https://syeung2.github.io/800mPlan/2023/CIFS",
             "relUrl": "/2023/CIFS",
             "date": " • May 26, 2023"
@@ -25,7 +25,7 @@
     
         ,"post2": {
             "title": "CIF Finals",
-            "content": "*Tentative . Athlete | Events | . Kaitlyn | 4 x 800 and 800 | .",
+            "content": "*Tentative . Athlete | Events | . Kaitlyn | 4 x 800 and 800 | . Prev Next",
             "url": "https://syeung2.github.io/800mPlan/2023/CIFF",
             "relUrl": "/2023/CIFF",
             "date": " • May 20, 2023"
@@ -47,7 +47,7 @@
     
         ,"post4": {
             "title": "CIF Prelims",
-            "content": "*Tentative . Athlete | Events | . Kaitlyn | 4 x 800 and 800 | .",
+            "content": "*Tentative . Athlete | Events | . Kaitlyn | 4 x 800 and 800 | . Prev Next",
             "url": "https://syeung2.github.io/800mPlan/2023/CIFP",
             "relUrl": "/2023/CIFP",
             "date": " • May 13, 2023"
@@ -69,7 +69,7 @@
     
         ,"post6": {
             "title": "Palomar League Finals",
-            "content": "*Tentative . Athlete | Events | . Kaitlyn | 1600 and 800 | .",
+            "content": "*Tentative . Athlete | Events | . Kaitlyn | 1600 and 800 | . Prev Next",
             "url": "https://syeung2.github.io/800mPlan/2023/PLF",
             "relUrl": "/2023/PLF",
             "date": " • May 5, 2023"
@@ -91,7 +91,7 @@
     
         ,"post8": {
             "title": "Dual Meet vs Mt Carmel",
-            "content": "*Tentative . Athlete | Events | . Kaitlyn | 1600 and 800 | .",
+            "content": "*Tentative . Athlete | Events | . Kaitlyn | 1600 and 800 | . Prev Next",
             "url": "https://syeung2.github.io/800mPlan/2023/MC",
             "relUrl": "/2023/MC",
             "date": " • Apr 27, 2023"
@@ -113,7 +113,7 @@
     
         ,"post10": {
             "title": "Frosh Soph Invitational",
-            "content": "*Tentative . Athlete | Events | . Kaitlyn | 3200 | .",
+            "content": "*Tentative . Athlete | Events | . Kaitlyn | 3200 | . Prev Next",
             "url": "https://syeung2.github.io/800mPlan/2023/FS",
             "relUrl": "/2023/FS",
             "date": " • Apr 22, 2023"
@@ -124,7 +124,7 @@
     
         ,"post11": {
             "title": "Dual Meet @ Rancho Bernardo",
-            "content": "*Tentative . Athlete | Events | . Kaitlyn | 400 and 200 | .",
+            "content": "*Tentative . Athlete | Events | . Kaitlyn | 400 and 200 | . Prev Next",
             "url": "https://syeung2.github.io/800mPlan/2023/RB",
             "relUrl": "/2023/RB",
             "date": " • Apr 20, 2023"
@@ -146,7 +146,7 @@
     
         ,"post13": {
             "title": "Jaguar Invitational",
-            "content": "*Tentative . Athlete | Events | .",
+            "content": "*Tentative . Athlete | Events | . Prev Next",
             "url": "https://syeung2.github.io/800mPlan/2023/JI",
             "relUrl": "/2023/JI",
             "date": " • Apr 15, 2023"
@@ -157,7 +157,7 @@
     
         ,"post14": {
             "title": "Mt Sac Relays",
-            "content": "*Tentative . Athlete | Events | . Kaitlyn | 4 x 800 (Fri) 800 (Sat) | .",
+            "content": "*Tentative . Athlete | Events | . Kaitlyn | 4 x 800 (Fri) 800 (Sat) | . Prev Next",
             "url": "https://syeung2.github.io/800mPlan/2023/MSR",
             "relUrl": "/2023/MSR",
             "date": " • Apr 14, 2023"
@@ -179,7 +179,7 @@
     
         ,"post16": {
             "title": "Arcadia Invitational",
-            "content": "*Tentative . Athlete | Events | . Kaitlyn | 4 x 800(Fri) 4 x 1600 (Fri) DMR (Sat) 800 (Sat) | .",
+            "content": "*Tentative . Athlete | Events | . Kaitlyn | 4 x 800(Fri) 4 x 1600 (Fri) DMR (Sat) 800 (Sat) | . Prev Next",
             "url": "https://syeung2.github.io/800mPlan/2023/AI",
             "relUrl": "/2023/AI",
             "date": " • Apr 7, 2023"
@@ -190,7 +190,7 @@
     
         ,"post17": {
             "title": "Dual Meet vs Poway",
-            "content": "*Tentative . Athlete | Events | . Kaitlyn | 400 and 200 | .",
+            "content": "*Tentative . Athlete | Events | . Kaitlyn | 400 and 200 | . Prev Next",
             "url": "https://syeung2.github.io/800mPlan/2023/PO",
             "relUrl": "/2023/PO",
             "date": " • Apr 5, 2023"
@@ -212,7 +212,7 @@
     
         ,"post19": {
             "title": "Dual Meet @ Del Norte",
-            "content": "*Tentative . Athlete | Events | . Kaitlyn | 1600 and 3200 | .",
+            "content": "*Tentative . Athlete | Events | . Kaitlyn | 1600 and 3200 | . Prev Next",
             "url": "https://syeung2.github.io/800mPlan/2023/DN",
             "relUrl": "/2023/DN",
             "date": " • Mar 30, 2023"
@@ -234,7 +234,7 @@
     
         ,"post21": {
             "title": "Mt Carmel Invite",
-            "content": "*Tentative . Athlete | Events | . Kaitlyn | 800 | .",
+            "content": "*Tentative . Athlete | Events | . Kaitlyn | 800 | . Prev Next",
             "url": "https://syeung2.github.io/800mPlan/2023/MCI",
             "relUrl": "/2023/MCI",
             "date": " • Mar 25, 2023"
@@ -256,7 +256,7 @@
     
         ,"post23": {
             "title": "Falcon Relays",
-            "content": "*Tentative . Athlete | Events | . Kaitlyn | 4 x 1600 and DMR | .",
+            "content": "*Tentative . Athlete | Events | . Kaitlyn | 4 x 1600 and DMR | . Prev Next",
             "url": "https://syeung2.github.io/800mPlan/2023/FR",
             "relUrl": "/2023/FR",
             "date": " • Mar 18, 2023"
@@ -267,7 +267,7 @@
     
         ,"post24": {
             "title": "Dual Meet vs San Marcos",
-            "content": "*Tentative . Athlete | Events | . Kaitlyn | 400 and 200 | .",
+            "content": "*Tentative . Athlete | Events | . Kaitlyn | 400 and 200 | . Prev Next",
             "url": "https://syeung2.github.io/800mPlan/2023/SM",
             "relUrl": "/2023/SM",
             "date": " • Mar 16, 2023"
@@ -289,7 +289,7 @@
     
         ,"post26": {
             "title": "Bronco Invite",
-            "content": "*Tentative . Athlete | Events | . Kaitlyn | 4 x 800 | .",
+            "content": "*Tentative . Athlete | Events | . Kaitlyn | 4 x 800 | . Prev Next",
             "url": "https://syeung2.github.io/800mPlan/2023/BI",
             "relUrl": "/2023/BI",
             "date": " • Mar 11, 2023"
@@ -300,7 +300,7 @@
     
         ,"post27": {
             "title": "Tri Meet with La Costa Canyon @ Carlsbad",
-            "content": "*Tentative . Athlete | Events | . Kaitlyn | 100 and 3200 | .",
+            "content": "*Tentative . Athlete | Events | . Kaitlyn | 100 and 3200 | . Prev Next",
             "url": "https://syeung2.github.io/800mPlan/2023/LCC_CB",
             "relUrl": "/2023/LCC_CB",
             "date": " • Mar 9, 2023"
@@ -322,7 +322,7 @@
     
         ,"post29": {
             "title": "Mt Carmel Distance Carnival",
-            "content": "*Tentative . Athlete | Events | . Kaitlyn | 1600 | .",
+            "content": "*Tentative . Athlete | Events | . Kaitlyn | 1600 | . Prev Next",
             "url": "https://syeung2.github.io/800mPlan/2023/MCDC",
             "relUrl": "/2023/MCDC",
             "date": " • Mar 4, 2023"
@@ -333,7 +333,7 @@
     
         ,"post30": {
             "title": "Tri Meet with Valley Center @ El Camino",
-            "content": "*Tentative . Athlete | Events | .",
+            "content": "*Tentative . Athlete | Events | . Next",
             "url": "https://syeung2.github.io/800mPlan/2023/VC_EC",
             "relUrl": "/2023/VC_EC",
             "date": " • Mar 2, 2023"
