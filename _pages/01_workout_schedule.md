@@ -4,6 +4,7 @@ title: Workout Schedule
 permalink: /workouts/
 ---
 
+|2/6 - 2/12|[Week 0]({{site.baseurl}}/2023/0)|
 |2/13 - 2/19|[Week 1]({{site.baseurl}}/2023/1)|
 |2/20 - 2/26|[Week 2]({{site.baseurl}}/2023/2)|
 |2/27 - 3/5|[Week 3]({{site.baseurl}}/2023/3)|
