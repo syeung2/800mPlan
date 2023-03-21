@@ -12,7 +12,7 @@ permalink: /goals/
 |Elizabeth|1:03 :white_large_square:|2:35 :white_large_square:|6:50 :white_large_square:| :white_large_square:|
 |Irene|1:05 :white_large_square:|2:30 :white_large_square:|6:00 :ballot_box_with_check: <br> 5:45 :white_large_square:|12:59 :white_large_square:|
 |James|0:56 :white_large_square:|2:03 :white_large_square:|4:35 :white_large_square:|10:30 :white_large_square:|
-|Kaitlyn|0:57 :white_large_square:|:ballot_box_with_check: <br> 2:12 :white_large_square:|5:00 :white_large_square:|11:00 :white_large_square:|
+|Kaitlyn|0:57 :white_large_square:|2:12 :ballot_box_with_check: <br> :white_large_square:|5:00 :white_large_square:|11:00 :white_large_square:|
 |Kamila|1:10 :white_large_square:|2:40 :white_large_square:|6:50 :ballot_box_with_check: <br> :white_large_square:| :white_large_square:|
 |Kiana|1:15 :white_large_square:|2:40 :white_large_square:|6:00 :white_large_square:|13:00 :white_large_square:|
 |Luke|0:56 :white_large_square:|2:10 :white_large_square:|5:15 :white_large_square:|11:30 :white_large_square:|
