@@ -4,5 +4,5 @@ title: Archive
 permalink: /archive/
 ---
 
-|2023|[Workouts]({{site.baseurl}}//meets/2023) <br> [Schedule]({{site.baseurl}}//meets/2023)|
+|2023|[Workouts]({{site.baseurl}}//meets/2023) <br> [Schedule]({{site.baseurl}}//meets/2023) <br> [Goals]({{site.baseurl}}//goals/2023)|
 |2024||
