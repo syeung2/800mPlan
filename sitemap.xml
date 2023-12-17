@@ -1,6 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 <url>
+<loc>https://syeung2.github.io/800mPlan/meets/2023</loc>
+<lastmod>2023-01-01T00:00:00-06:00</lastmod>
+</url>
+<url>
+<loc>https://syeung2.github.io/800mPlan/workouts/2023</loc>
+<lastmod>2023-01-01T00:00:00-06:00</lastmod>
+</url>
+<url>
 <loc>https://syeung2.github.io/800mPlan/2023/0</loc>
 <lastmod>2023-02-06T00:00:00-06:00</lastmod>
 </url>
@@ -153,10 +161,6 @@
 <lastmod>2023-06-12T00:00:00-05:00</lastmod>
 </url>
 <url>
-<loc>https://syeung2.github.io/800mPlan/2024/1</loc>
-<lastmod>2023-12-16T00:00:00-06:00</lastmod>
-</url>
-<url>
 <loc>https://syeung2.github.io/800mPlan/meets/</loc>
 </url>
 <url>
@@ -170,6 +174,9 @@
 </url>
 <url>
 <loc>https://syeung2.github.io/800mPlan/categories/</loc>
+</url>
+<url>
+<loc>https://syeung2.github.io/800mPlan/archive/</loc>
 </url>
 <url>
 <loc>https://syeung2.github.io/800mPlan/</loc>
