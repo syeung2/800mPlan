@@ -478,7 +478,7 @@
   
       ,"page2": {
           "title": "Goals",
-          "content": "",
+          "content": ":ballot_box_with_check: | 400m | 800m | 1600m | 3200m | .   |   |   |   |   | .   |   |   |   |   | .   |   |   |   |   | .   |   |   |   |   | .   |   |   |   |   | .   |   |   |   |   | .   |   |   |   |   | .   |   |   |   |   | .   |   |   |   |   | .   |   |   |   |   | .   |   |   |   |   | .   |   |   |   |   | .   |   |   |   |   | .   |   |   |   |   | .   |   |   |   |   | .   |   |   |   |   | .",
           "url": "https://syeung2.github.io/800mPlan/goals/",
           "relUrl": "/goals/",
           "date": ""
@@ -493,7 +493,7 @@
   
       ,"page5": {
           "title": "Archive",
-          "content": "2023 | Workouts Schedule | . 2024 |   | .",
+          "content": "2023 | Workouts Schedule Goals | . 2024 |   | .",
           "url": "https://syeung2.github.io/800mPlan/archive/",
           "relUrl": "/archive/",
           "date": ""
