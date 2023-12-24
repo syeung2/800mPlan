@@ -4,6 +4,7 @@ title: Workout Schedule
 permalink: /workouts/
 ---
 
+|12/25 - 2/4|[Preseason]({{site.baseurl}}/2024/preseason)|
 |2/5 - 2/11|[Week 0]({{site.baseurl}}/2024/0)|
 |2/12 - 2/18|[Week 1]({{site.baseurl}}/2024/1)|
 |2/19 - 2/25|[Week 2]({{site.baseurl}}/2024/2)|
