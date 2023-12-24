@@ -21,6 +21,3 @@ permalink: /workouts/
 |5/6 - 5/12|[Week 13]({{site.baseurl}}/2024/13)|
 |5/13 - 5/19|[Week 14]({{site.baseurl}}/2024/14)|
 |5/20 - 5/26|[Week 15]({{site.baseurl}}/2024/15)|
-|5/27 - 6/2|[Week 16]({{site.baseurl}}/2024/16)|
-|6/3 - 6/9|[Week 17]({{site.baseurl}}/2024/17)|
-|6/10 - 6/16|[Week 18]({{site.baseurl}}/2024/18)|
