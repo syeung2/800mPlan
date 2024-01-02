@@ -4,7 +4,6 @@ title: Meet Schedule
 permalink: /meets/
 ---
 
-|2/15|[Dual Meet @ Vista]({{site.baseurl}}//2024/VI)|
 |2/22|[Tri Meet vs San Dieguito Academy & Mission Hills]({{site.baseurl}}//2024/SDA_MH)|
 |2/29|[Dual Meet vs Sage Creek]({{site.baseurl}}//2024/SC)|
 |3/2|[Mt Carmel Distance Carnival]({{site.baseurl}}//2024/MCDC)|
@@ -15,6 +14,7 @@ permalink: /meets/
 |3/21|[Dual Meet @ Torrey Pines]({{site.baseurl}}//2024/TP)|
 |3/23|[Mt Carmel Invite]({{site.baseurl}}//2024/MCI)|
 |3/28|[Dual Meet vs Del Norte]({{site.baseurl}}//2024/DN)|
+|3/30|[Willie Banks Invite]({{site.baseurl}}//2024/WBI)|
 |4/3|[Dual Meet @ Poway]({{site.baseurl}}//2024/PO)|
 |4/5 - 4/6|[Arcadia Invite]({{site.baseurl}}//2024/AI)|
 |4/13|[Jaguar Invite]({{site.baseurl}}//2024/JI)|
