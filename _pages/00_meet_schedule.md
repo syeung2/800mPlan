@@ -23,6 +23,6 @@ permalink: /meets/
 |4/25|[Dual Meet vs Mt Carmel]({{site.baseurl}}//2024/MC)|
 |4/27|[Frosh-Soph Invite]({{site.baseurl}}//2024/FS)|
 |5/4|[Palomar League Finals]({{site.baseurl}}//2024/PLF)|
-|5/11|[CIF Prelims]({{site.baseurl}}//2024/CIFP)|
-|5/18|[CIF Finals]({{site.baseurl}}//2024/CIFF)|
+|5/11|[CIF Divisionals]({{site.baseurl}}//2024/CIFD)|
+|5/18|[CIF Section Finals]({{site.baseurl}}//2024/CIFF)|
 |5/24 - 5/25|[CIF State Meet]({{site.baseurl}}//2024/CIFS)|
