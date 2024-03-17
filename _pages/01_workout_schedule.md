@@ -10,7 +10,7 @@ permalink: /workouts/
 |2/19 - 2/25|[Week 2]({{site.baseurl}}/2024/2)|
 |2/26 - 3/3|[Week 3]({{site.baseurl}}/2024/3)|
 |3/4 - 3/10|[Week 4]({{site.baseurl}}/2024/4)|
-|3/11 - 3/11|[Week 5]({{site.baseurl}}/2024/5)|
+|3/11 - 3/17|[Week 5]({{site.baseurl}}/2024/5)|
 |3/18 - 3/24|[Week 6]({{site.baseurl}}/2024/6)|
 |3/25 - 3/31|[Week 7]({{site.baseurl}}/2024/7)|
 |4/1 - 4/7|[Week 8]({{site.baseurl}}/2024/8)|
