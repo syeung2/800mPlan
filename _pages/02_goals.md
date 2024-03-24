@@ -7,7 +7,7 @@ permalink: /goals/
 ![]({{site.baseurl}}/images/2024TrackAQ.png)
 
 |:ballot_box_with_check:|400m|800m|1600m|3200m|
-|Charlotte|1:03 :white_large_square:|2:30 :white_large_square:|6:05 :ballot_box_with_check: <br> :white_large_square:| :white_large_square:|
+|Charlotte|1:03 :white_large_square:|2:30 :ballot_box_with_check: <br> :white_large_square:|6:05 :ballot_box_with_check: <br> :white_large_square:| :white_large_square:|
 |Delaney|0:59 :white_large_square:|2:20 :white_large_square:|5:29 :white_large_square:| :white_large_square:|
 |Elizabeth|1:05 :ballot_box_with_check: <br> :white_large_square:|2:24 :white_large_square:|5:59 :ballot_box_with_check: <br> :white_large_square:| :white_large_square:|
 |Irene|1:06 :white_large_square:|2:30 :white_large_square:|5:45 :white_large_square:| :white_large_square:|
