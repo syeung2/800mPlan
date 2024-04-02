@@ -15,10 +15,10 @@ permalink: /meets/
 |3/23|[Mt Carmel Invite]({{site.baseurl}}//2024/MCI)|
 |3/28|[Dual Meet vs Del Norte]({{site.baseurl}}//2024/DN)|
 |3/30|[Willie Banks Invite]({{site.baseurl}}//2024/WBI)|
-|4/3|[Dual Meet @ Poway]({{site.baseurl}}//2024/PO)|
+|4/4|[Dual Meet @ Poway]({{site.baseurl}}//2024/PO)|
 |4/5 - 4/6|[Arcadia Invite]({{site.baseurl}}//2024/AI)|
 |4/13|[Jaguar Invite]({{site.baseurl}}//2024/JI)|
-|4/17 or 18|[Dual Meet @ Rancho Bernardo]({{site.baseurl}}//2024/RB)|
+|4/17|[Dual Meet @ Rancho Bernardo]({{site.baseurl}}//2024/RB)|
 |4/19 - 4/20|[Mt Sac Relays]({{site.baseurl}}//2024/MSR)|
 |4/25|[Dual Meet vs Mt Carmel]({{site.baseurl}}//2024/MC)|
 |4/27|[Frosh-Soph Invite]({{site.baseurl}}//2024/FS)|
