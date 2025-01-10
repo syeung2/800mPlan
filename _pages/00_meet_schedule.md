@@ -4,25 +4,25 @@ title: Meet Schedule
 permalink: /meets/
 ---
 
-|2/22|[Tri Meet vs San Dieguito Academy & Mission Hills]({{site.baseurl}}//2024/SDA_MH)|
-|2/29|[Dual Meet vs Sage Creek]({{site.baseurl}}//2024/SC)|
-|3/2|[Mt Carmel Distance Carnival]({{site.baseurl}}//2024/MCDC)|
-|3/7|[Tri Meet with Carlsbad @ La Costa Canyon]({{site.baseurl}}//2024/CB_LCC)|
-|3/9|[Bronco Invite]({{site.baseurl}}//2024/BI)|
-|3/14|[Dual Meet @ San Marcos]({{site.baseurl}}//2024/SM)|
-|3/16|[Falcon Relays]({{site.baseurl}}//2024/FR)|
-|3/21|[Dual Meet @ Torrey Pines]({{site.baseurl}}//2024/TP)|
-|3/23|[Mt Carmel Invite]({{site.baseurl}}//2024/MCI)|
-|3/28|[Dual Meet vs Del Norte]({{site.baseurl}}//2024/DN)|
-|3/30|[Willie Banks Invite]({{site.baseurl}}//2024/WBI)|
-|4/4|[Dual Meet @ Poway]({{site.baseurl}}//2024/PO)|
-|4/5 - 4/6|[Arcadia Invite]({{site.baseurl}}//2024/AI)|
-|4/13|[Jaguar Invite]({{site.baseurl}}//2024/JI)|
-|4/17|[Dual Meet @ Rancho Bernardo]({{site.baseurl}}//2024/RB)|
-|4/19 - 4/20|[Mt Sac Relays]({{site.baseurl}}//2024/MSR)|
-|4/25|[Dual Meet vs Mt Carmel]({{site.baseurl}}//2024/MC)|
-|4/27|[Frosh-Soph Invite]({{site.baseurl}}//2024/FS)|
-|5/4|[Palomar League Finals]({{site.baseurl}}//2024/PLF)|
-|5/11|[CIF Divisionals]({{site.baseurl}}//2024/CIFD)|
-|5/18|[CIF Section Finals]({{site.baseurl}}//2024/CIFF)|
-|5/24 - 5/25|[CIF State Meet]({{site.baseurl}}//2024/CIFS)|
+|2/27|[Tri Meet with Ramona @ Scripps Ranch]({{site.baseurl}}//2025/RA_SR)|
+|3/6|[Tri Meet vs La Costa Canyon & Mission Vista]({{site.baseurl}}//2025/LCC_MV)|
+|3/8|[Mt Carmel Distance Carnival]({{site.baseurl}}//2025/MCDC)|
+|3/13|[Tri Meet with Mission Vista @ Canyon Crest Academy]({{site.baseurl}}//2025/CCA_MV)|
+|3/15|[Bronco Invite]({{site.baseurl}}//2025/BI)|
+|3/20|[Dual Meet vs San Marcos]({{site.baseurl}}//2025/SM)|
+|3/22|[Falcon Relays]({{site.baseurl}}//2025/FR)|
+|3/27|[Dual Meet @ Del Norte]({{site.baseurl}}//2025/DN)|
+|3/29|[Mt Carmel Invite]({{site.baseurl}}//2025/MCI)|
+|4/5|[Willie Banks Invite]({{site.baseurl}}//2025/WBI)|
+|4/9|[Dual Meet vs Poway]({{site.baseurl}}//2025/PO)|
+|4/11 - 4/12|[Arcadia Invite]({{site.baseurl}}//2025/AI)|
+|4/18 - 4/19|[Mt Sac Relays]({{site.baseurl}}//2025/MSR)|
+|4/19|[Jaguar Invite]({{site.baseurl}}//2025/JI)|
+|4/23|[Dual Meet @ Rancho Bernardo]({{site.baseurl}}//2025/RB)|
+|4/25|[Escondido Invite]({{site.baseurl}}//2025/EI)|
+|4/26|[Frosh-Soph Invite]({{site.baseurl}}//2025/FS)|
+|5/1|[Dual Meet vs Mt Carmel]({{site.baseurl}}//2025/MC)|
+|5/10|[Palomar League Finals]({{site.baseurl}}//2025/PLF)|
+|5/17|[CIF Divisionals]({{site.baseurl}}//2025/CIFD)|
+|5/24|[CIF Section Finals]({{site.baseurl}}//2025/CIFF)|
+|5/30 - 5/31|[CIF State Meet]({{site.baseurl}}//2025/CIFS)|
