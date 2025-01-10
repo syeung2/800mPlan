@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Meet Schedule
-permalink: /meets/
+permalink: /meets/2024
 ---
 
 |2/22|[Tri Meet vs San Dieguito Academy & Mission Hills]({{site.baseurl}}//2024/SDA_MH)|

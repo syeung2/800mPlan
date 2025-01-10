@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Workout Schedule
-permalink: /workouts/
+permalink: /workouts/2024
 ---
 
 |12/25 - 2/4|[Preseason]({{site.baseurl}}/2024/preseason)|
