@@ -121,6 +121,8 @@
 
 .highlight .lineno, .highlight .gl { color: #8a8a8a; }
 
+.highlight .hll { background-color: #373730; }
+
 html { font-size: 16px; }
 
 /** Reset some basic elements */
@@ -160,9 +162,9 @@ a:visited { color: #80bbff; }
 
 a:hover { color: #959595; text-decoration: underline #999999; text-underline-offset: 3px; }
 
-.social-media-list a:hover, .pagination a:hover { text-decoration: none; }
+.social-media-list a:hover { text-decoration: none; }
 
-.social-media-list a:hover .username, .pagination a:hover .username { text-decoration: underline; }
+.social-media-list a:hover .username { text-decoration: underline; }
 
 /** Blockquotes */
 blockquote { color: #999999; border-left: 4px solid #2b2b2b; padding-left: 15px; font-size: 1.05rem; font-style: italic; }
@@ -186,7 +188,9 @@ div.highlight pre, figure.highlight pre { margin: 0; }
 
 div.highlight table, div.highlight tbody, div.highlight th, div.highlight tr, div.highlight td, figure.highlight table, figure.highlight tbody, figure.highlight th, figure.highlight tr, figure.highlight td { margin: 0; padding: 0; border: 0; }
 
-figure.highlight > pre { padding: 5px 0 0; }
+div.highlight .lineno, div.highlight .gl, figure.highlight .lineno, figure.highlight .gl { text-align: right; }
+
+figure.highlight table { margin: -8px -12px -14px; }
 
 figure.highlight td.gutter { border-right: 1px solid #2b2b2b; }
 
@@ -248,7 +252,7 @@ table td { border: 1px solid #2b2b2b; }
 
 .feed-subscribe .svg-icon { padding: 5px 5px 2px 0; }
 
-.contact-list, .social-media-list, .pagination { list-style: none; margin-left: 0; }
+.contact-list, .social-media-list { list-style: none; margin-left: 0; }
 
 .footer-col-wrapper, .social-links { font-size: 0.9375rem; color: #858585; }
 
@@ -314,24 +318,32 @@ table td { border: 1px solid #2b2b2b; }
 
 .comments-disabled-message { text-align: center; font-weight: 300; }
 
-.social-media-list, .pagination { display: table; margin: 0 auto; }
+.social-media-list { display: table; margin: 0 auto; }
 
-.social-media-list li, .pagination li { float: left; min-width: 45px; min-height: 45px; text-align: center; margin: 5px 10px 5px 0; }
+.social-media-list li { float: left; min-width: 45px; min-height: 45px; text-align: center; margin: 5px 10px 5px 0; }
 
-.social-media-list li:last-of-type, .pagination li:last-of-type { margin-right: 0; }
+.social-media-list li:last-of-type { margin-right: 0; }
 
-.social-media-list li a, .pagination li a { display: block; padding: 10px 12px; border: 1px solid #2b2b2b; }
+.social-media-list li a { display: block; padding: 10px 12px; border: 1px solid #2b2b2b; }
 
-.social-media-list li a:hover, .pagination li a:hover { border-color: #a6a6a6; }
+.social-media-list li a:hover { border-color: #a6a6a6; }
 
 /** Pagination navbar */
-.pagination { margin-bottom: 30px; }
+.pagination { display: table; margin: 0 auto; list-style-type: none; }
 
-.pagination li a, .pagination li div { min-width: 41px; text-align: center; box-sizing: border-box; }
+.pagination li { float: left; margin: 0 3px; min-width: 45px; min-height: 45px; text-align: center; }
 
-.pagination li div { display: block; padding: 7.5px; border: 1px solid transparent; }
+.pagination li a { display: block; text-decoration: none; border: 1px solid #2b2b2b; }
+
+.pagination li a:hover { border-color: #a6a6a6; }
+
+.pagination li a, .pagination li div { min-width: 41px; padding: 10px 12px; text-align: center; box-sizing: border-box; }
+
+.pagination li div { border: 1px solid transparent; }
 
 .pagination li div.pager-edge { color: #2b2b2b; border: 1px dashed; }
+
+.pagination li div.current-page { font-weight: bold; }
 
 /** Task-lists */
 .task-list { margin-left: 0; padding-left: 18px; }
@@ -391,7 +403,7 @@ details.description:not([open]) summary::after { content: attr(data-close); }
 
 .footnotes p, .footnotes li { font-size: 12px !important; }
 
-.social-media-list .svg-icon, .pagination .svg-icon { width: 25px !important; height: 23px !important; }
+.social-media-list .svg-icon { width: 25px !important; height: 23px !important; }
 
 .anchor-link { opacity: 0; padding-left: 0.375em; \-webkit-text-stroke: 1.75px white; \-webkit-transition: opacity 0.2s ease-in-out 0.1s; \-moz-transition: opacity 0.2s ease-in-out 0.1s; \-ms-transition: opacity 0.2s ease-in-out 0.1s; }
 
