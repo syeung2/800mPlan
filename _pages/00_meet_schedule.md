@@ -4,15 +4,16 @@ title: Meet Schedule
 permalink: /meets/
 ---
 
-|2/27|[Tri Meet with Ramona @ Scripps Ranch]({{site.baseurl}}//2025/RA_SR)|
-|3/6|[Tri Meet vs La Costa Canyon & Mission Vista]({{site.baseurl}}//2025/LCC_MV)|
-|3/8|[Mt Carmel Distance Carnival]({{site.baseurl}}//2025/MCDC)|
+
+|3/5|[Tri Meet vs Ramona & Mission Vista]({{site.baseurl}}//2026/RA_MV)|
+|3/7|[Mt Carmel Distance Carnival]({{site.baseurl}}//2026/MCDC)|
 |3/13|[Tri Meet with Mission Vista @ Canyon Crest Academy]({{site.baseurl}}//2025/CCA_MV)|
 |3/15|[Bronco Invite]({{site.baseurl}}//2025/BI)|
 |3/20|[Dual Meet vs San Marcos]({{site.baseurl}}//2025/SM)|
 |3/22|[Falcon Relays]({{site.baseurl}}//2025/FR)|
 |3/27|[Dual Meet @ Del Norte]({{site.baseurl}}//2025/DN)|
 |3/29|[Mt Carmel Invite]({{site.baseurl}}//2025/MCI)|
+|2/27|[Tri Meet with Ramona @ Scripps Ranch]({{site.baseurl}}//2025/RA_SR)|
 |4/5|[Willie Banks Invite]({{site.baseurl}}//2025/WBI)|
 |4/9|[Dual Meet vs Poway]({{site.baseurl}}//2025/PO)|
 |4/11 - 4/12|[Arcadia Invite]({{site.baseurl}}//2025/AI)|
