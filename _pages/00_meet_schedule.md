@@ -16,10 +16,10 @@ permalink: /meets/
 |4/2|[Dual Meet @ Valley Center]({{site.baseurl}}//2026/VC)|
 |4/4|[Willie Banks Invite]({{site.baseurl}}//2026/WBI)|
 |4/10 - 4/11|[Arcadia Invite]({{site.baseurl}}//2026/AI)|
-|4/15|[Dual Meet @ Poway]({{site.baseurl}}//2026/PO)|
+|4/16|[Dual Meet @ Poway]({{site.baseurl}}//2026/PO)|
 |4/17 - 4/18|[Mt Sac Relays]({{site.baseurl}}//2026/MSR)|
 |4/18|[Jaguar Invite]({{site.baseurl}}//2026/JI)|
-|4/22|[Dual Meet vs Rancho Bernardo]({{site.baseurl}}//2026/RB)|
+|4/23|[Dual Meet vs Rancho Bernardo]({{site.baseurl}}//2026/RB)|
 |4/24|[Escondido Invite]({{site.baseurl}}//2026/EI)|
 |4/25|[Frosh-Soph Invite]({{site.baseurl}}//2026/FS)|
 |4/30|[Dual Meet @ Mt Carmel]({{site.baseurl}}//2026/MC)|
