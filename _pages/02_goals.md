@@ -15,7 +15,7 @@ permalink: /goals/
 |Charlotte|||||
 |Anjali|||||
 |Hajar|||||
-|Nivi|||||
+|Nive|||||
 |Serenity|||||
 |Marianne|||||
 |Angelina|||||
