@@ -11,6 +11,7 @@ permalink: /goals/
 |Lucca|||||
 |Tomio|||||
 |Anran|||||
+|Evan|||||
 |Delaney|||||
 |Charlotte|||||
 |Anjali|||||
