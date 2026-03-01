@@ -12,6 +12,10 @@ permalink: /goals/
 |Tomio|||||
 |Anran|||||
 |Evan|||||
+|Rex|||||
+|Alex|||||
+|Jackson|||||
+|Michael|||||
 |Delaney|||||
 |Charlotte|||||
 |Anjali|||||
