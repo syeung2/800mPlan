@@ -6,7 +6,7 @@ categories: [Workouts]
 hide: true
 ---
 
-Welcome to the Track Preseason. For those that are not in a winter sport and planning to do distance track it is a good idea to build a base to be prepared for the season to start. While it is not mandatory that you follow this plan, the preseason is for building mileage and strength not for hitting race pace. We will hit race pace when we get to the season and trying to sustain hard workouts for 6 months is too long. 
+Welcome to the Track Preseason. For those that are not in a winter sport and planning to do distance track it is a good idea to build a base to be prepared for the season to start. While it is not mandatory that you follow this plan, the preseason is for building mileage and strength, not for hitting race pace. We will hit race pace when we get to the season and trying to sustain hard workouts for 6 months is too long. 
 
 During the preseason the structure will be:
 
@@ -19,9 +19,11 @@ Saturday - Easy Run <br>
 
 Workout Notes:
 
+-The week is based on the week you started running, if you are taking your 2 week break now, you should start at week 1 not week 3. <br>
 -Steady Run will build into a longer run as the offseason progresses <br>
 -Easy Runs should be at a conversational pace but not recovery pace <br>
 -Tempo Workouts should be preceded and followed by 1 mile easy. All reps should be followed by 1 min easy. <br>
+-[Tempo Paces]({{site.baseurl}}//2027/tempo_paces)|
 
 Based on how often you are able to run in a week here are some sample plans.
 
@@ -57,12 +59,12 @@ Runner C - Can run 1 - 2 times a week.
 
 |Week|Monday|Tuesday|Wednesday|Thursday|Friday|Saturday|Sunday|
 |1|30 Minutes Easy|30 Minutes Easy|Plyos|30 Minutes Easy|4 x 3 minute tempo|30 Minutes Easy|Off|
-|2|35 Minutes Steady|30 Minutes Easy|Plyos|30 Minutes Easy|4 x 4 minute tempo|30 Minutes Easy|Off|
-|3|40 Minutes Steady|32 Minutes Easy|Plyos|32 Minutes Easy|3 x 5 minute tempo|32 Minutes Easy|Off|
-|4|40 Minutes Steady|32 Minutes Easy|Plyos|32 Minutes Easy|6 x 3 minute tempo|32 Minutes Easy|Off|
-|5|45 Minutes Steady|34 Minutes Easy|Plyos|34 Minutes Easy|5 x 4 minute tempo|34 Minutes Easy|Off|
-|6|50 Minutes Steady|34 Minutes Easy|Plyos|34 Minutes Easy|2 x 10 minute tempo|34 Minutes Easy|Off|
-|7|50 Minutes Steady|36 Minutes Easy|Plyos|36 Minutes Easy|8 x 3 minute tempo|36 Minutes Easy|Off|
-|8|55 Minutes Steady|36 Minutes Easy|Plyos|36 Minutes Easy|5 x 5 minute tempo|36 Minutes Easy|Off|
-|9|60 Minutes Steady|38 Minutes Easy|Plyos|38 Minutes Easy|3 x 10 minute tempo|38 Minutes Easy|Off|
-|10|60 Minutes Steady|38 Minutes Easy|Plyos|38 Minutes Easy|2 x 15 minute tempo|38 Minutes Easy|Off|
+|2|35 Minutes Steady|30 Minutes Easy|Plyos|30 Minutes Easy|3 x 4 minute tempo|30 Minutes Easy|Off|
+|3|40 Minutes Steady|32 Minutes Easy|Plyos|32 Minutes Easy|5 x 3 minute tempo|32 Minutes Easy|Off|
+|4|40 Minutes Steady|32 Minutes Easy|Plyos|32 Minutes Easy|4 x 4 minute tempo|32 Minutes Easy|Off|
+|5|45 Minutes Steady|34 Minutes Easy|Plyos|34 Minutes Easy|3 x 5 minute tempo|34 Minutes Easy|Off|
+|6|50 Minutes Steady|34 Minutes Easy|Plyos|34 Minutes Easy|6 x 3 minute tempo|34 Minutes Easy|Off|
+|7|50 Minutes Steady|36 Minutes Easy|Plyos|36 Minutes Easy|5 x 4 minute tempo|36 Minutes Easy|Off|
+|8|55 Minutes Steady|36 Minutes Easy|Plyos|36 Minutes Easy|2 x 10 minute tempo|36 Minutes Easy|Off|
+|9|60 Minutes Steady|38 Minutes Easy|Plyos|38 Minutes Easy|8 x 3 minute tempo|38 Minutes Easy|Off|
+|10|60 Minutes Steady|38 Minutes Easy|Plyos|38 Minutes Easy|5 x 5 minute tempo|38 Minutes Easy|Off|
