@@ -6,7 +6,7 @@ categories: [Workouts]
 hide: true
 ---
 
-Welcome to the Track Preseason. For those that are not in a winter sport and planning to do distance track it is a good idea to build a base to be prepared for the season to start. While it is not mandatory that you follow this plan, the preseason is for building mileage and strength, not for hitting race pace. We will hit race pace when we get to the season and trying to sustain hard workouts for 6 months is too long. 
+Welcome to the Track Preseason! For those that are not in a winter sport and planning to do distance track it is a good idea to build a base to be prepared for the season to start. While it is not mandatory that you follow this plan, the preseason is for building mileage and strength, not for hitting race pace. We will hit race pace when we get to the season and trying to sustain hard workouts for 6 months will lead to early peaking and/or burnout. If all you can do is easy runs, that is better than doing too much in the offseason. 
 
 During the preseason the structure will be:
 
@@ -19,13 +19,13 @@ Saturday - Easy Run <br>
 
 Workout Notes:
 
--The week is based on the week you started running, if you are taking your 2 week break now, you should start at week 1 not week 3. <br>
--Steady Run will build into a longer run as the offseason progresses <br>
+-The week is based on the week you started running after your break from cross country. If you are taking your 2 week break now, you should start at week 1 not week 3. <br>
+-Steady Run will build into a long run as the offseason progresses <br>
 -Easy Runs should be at a conversational pace but not recovery pace <br>
 -Tempo Workouts should be preceded and followed by 1 mile easy. All reps should be followed by 1 min easy. <br>
 -[Tempo Paces]({{site.baseurl}}//2027/tempo_paces)
 
-Based on how often you are able to run in a week here are some sample plans.
+Based on how often you are able to run in a week here are some sample plans with how much to add each week.
 
 Runner A - Can run at least 5 times a week.
 
