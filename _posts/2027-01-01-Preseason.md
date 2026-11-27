@@ -23,7 +23,7 @@ Workout Notes:
 -Steady Run will build into a longer run as the offseason progresses <br>
 -Easy Runs should be at a conversational pace but not recovery pace <br>
 -Tempo Workouts should be preceded and followed by 1 mile easy. All reps should be followed by 1 min easy. <br>
--[Tempo Paces]({{site.baseurl}}//2027/tempo_paces)|
+-[Tempo Paces]({{site.baseurl}}//2027/tempo_paces)
 
 Based on how often you are able to run in a week here are some sample plans.
 
